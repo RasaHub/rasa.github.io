@@ -1,11 +1,11 @@
-title: "Pod 22.PX.X"
-email: fellowship@mlh.io
+title: "Rahim Rasa Academics"
+email: rahim_rasa@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my portfolio website!
 baseurl: "/" 
-url: "/" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "https://rasa.gitbub.io/" 
+twitter_username: gomyway
+github_username:  rasahub
 
 sass:
   sass_dir: _sass
